@@ -1,0 +1,17 @@
+.list {
+  position: relative;;
+}
+
+.item {
+  display: block;
+  width: 200px;
+  padding: 10px;
+  margin-bottom: 10px;
+  /*position: absolute;*/
+  list-style: none;
+  border: 2px solid gray;
+}
+
+p {
+  margin: 0
+}
